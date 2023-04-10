@@ -1,0 +1,154 @@
+body{
+  margin: 0px;
+  padding: 0px;
+}
+/*.type1{
+  width: 30%
+  display: block;
+  margin: 0px auto;
+}*/
+.type2{
+  width: 30%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.link{
+  text-decoration:none;
+  color:#a1a1a1
+}
+.test{
+  width:200px;
+  text-align:center;
+  display:block;
+  background-color: transparent;
+  border: 1px solid transparent;
+  margin-right: 10px;
+  margin-bottom: 1px;
+  float:left;
+}
+.game{
+  width:250px;
+  height:290px;
+  text-align:center;
+  display:block;
+  background-color: #292929;
+  border: 5px solid #292929;
+  margin: 5px;
+  float:left;
+  border-radius: 15px 15px 15px 15px;
+  color: white;
+  font-family: sans-serif;
+}
+.game img{
+  border-radius: 15px 15px 15px 15px;
+  object-fit: cover;
+}
+.grad1{
+  margin: auto;
+}
+.games{
+  margin: auto;
+}
+.bookmark{
+  display: flex;
+  justify-content: center;
+}
+.game1{
+  display: flex;
+  justify-content: center;
+}
+.game2{
+  display: flex;
+  justify-content: center;
+}
+.game3{
+  display: flex;
+  justify-content: center;
+}
+.game4{
+  display: flex;
+  justify-content: center;
+}
+.game5{
+  display: flex;
+  justify-content: center;
+}
+.game6{
+  display: flex;
+  justify-content: center;
+}
+.game7{
+  display: flex;
+  justify-content: center;
+}
+.game8{
+  display: flex;
+  justify-content: center;
+}
+.game9{
+  display: flex;
+  justify-content: center;
+}
+.game10{
+  display: flex;
+  justify-content: center;
+}
+.game11{
+  display: flex;
+  justify-content: center;
+}
+.game12{
+  display: flex;
+  justify-content: center;
+}
+.game13{
+  display: flex;
+  justify-content: center;
+}
+.game14{
+  display: flex;
+  justify-content: center;
+}
+.game15{
+  display: flex;
+  justify-content: center;
+}
+.game16{
+  display: flex;
+  justify-content: center;
+}
+.game17{
+  display: flex;
+  justify-content: center;
+}
+.emulator1{
+  display: flex;
+  justify-content: center;
+}
+.emulator2{
+  display: flex;
+  justify-content: center;
+}
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey; 
+  border-radius: 10px;
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: grey; 
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #636363; 
+}
