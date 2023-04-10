@@ -14,10 +14,19 @@ body{
   left: 50%;
   transform: translate(-50%, -50%);
 }
-
 .link{
   text-decoration:none;
-  color:#a1a1a1
+  color:gray
+}
+.item{
+  width:200px;
+  text-align:center;
+  display:block;
+  background-color: transparent;
+  border: 1px solid transparent;
+  margin-right: 10px;
+  margin-bottom: 1px;
+  float:left;
 }
 .game{
   width:225px;
